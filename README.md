@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/97c78ed4-3f5a-4daa-8014-d02bb1b4e6a1" />
 # 🛡️ Trustchain
 
 **Trustchain** is a decentralized digital legacy management system built on the Ethereum blockchain.  
