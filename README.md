@@ -53,7 +53,7 @@ This eliminates reliance on centralized entities and ensures **transparency, imm
 ## 🚀 Deployed Smart Contract
 
 **Network:** Celo Sepolia Testnet
-**Contract Address:** `0xd7989c9c9aA4Ed1c5F1964d4D449399151470f7e`
+**Deployed Contract:** `https://repo.sourcify.dev/11142220/0xd7989c9c9aA4Ed1c5F1964d4D449399151470f7e`
 
 ---
 
