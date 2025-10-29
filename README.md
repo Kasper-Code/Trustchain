@@ -54,6 +54,7 @@ This eliminates reliance on centralized entities and ensures **transparency, imm
 
 **Network:** Celo Sepolia Testnet
 **Deployed Contract:** https://repo.sourcify.dev/11142220/0xd7989c9c9aA4Ed1c5F1964d4D449399151470f7e
+**Solidity Version:** `^0.8.20`
 
 ---
 
