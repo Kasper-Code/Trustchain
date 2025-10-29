@@ -1,4 +1,5 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/97c78ed4-3f5a-4daa-8014-d02bb1b4e6a1" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0ac515aa-5def-466b-b4ea-fbc2cd628d2e" />
+
 # 🛡️ Trustchain
 
 **Trustchain** is a decentralized digital legacy management system built on the Ethereum blockchain.  
@@ -51,10 +52,8 @@ This eliminates reliance on centralized entities and ensures **transparency, imm
 
 ## 🚀 Deployed Smart Contract
 
-**Network:** (e.g. Sepolia / Polygon / Celo / Local VM)  
-**Contract Address:** `XXX`
-
-*(Replace `XXX` with your actual deployed contract address once you deploy it.)*
+**Network:** Celo Sepolia Testnet
+**Contract Address:** `0xd7989c9c9aA4Ed1c5F1964d4D449399151470f7e`
 
 ---
 
